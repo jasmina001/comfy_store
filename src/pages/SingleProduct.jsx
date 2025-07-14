@@ -72,7 +72,6 @@ const SingleProduct = () => {
               {generateAmountOptions(20)}
             </select>
           </div>
-
           {/* cart btn */}
           <div className="mt-10">
             <button className="btn btn-secondary btn-md">Add to bag</button>
@@ -84,3 +83,4 @@ const SingleProduct = () => {
 };
 
 export default SingleProduct;
+
